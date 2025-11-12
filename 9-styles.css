@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+header {
+    margin: 47px 42px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.88px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    text-align: center;
+}
+
+.button-header {
+    background: #6FBF44;
+    border-radius: 4px;
+    width: 124px;
+    height: 51px;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.88px;
+    color: #FFFFFF;
+}
+
+img {
+    width: 595.17822265625px;
+    height: 500.0048828125px;
+    margin-top: 200px;
+    margin-left: 121px;
+}
+
+.img-left {
+    display: inline-block;
+
+}
+
+.right {
+    display: inline-block;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    width: 493px;
+    height: 99px;
+    margin-top: 39px;
+    margin-bottom: 16px;
+}
+
+.link-main {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+    width: 112px;
+    height: 27px;
+
+}
+
+.link-header:hover {
+    color: #6FBF44;
+}
+
+.link-header:active {
+    opacity: 0.5;
+}
+
+.button-header:hover {
+    background: #3BB143;
+}
+
+.button-header:active {
+    opacity: 0.5;
+}
+
+.link-main:hover {
+    color: #006400;
+}
+
+.link-main:active {
+    opacity: 0.5;
+}
+
+section {
+    margin-left: 121px;
+}
+
+@media screen and (max-width: 720px) {
+
+    .img-left {
+        display: block;
+        width: calc(70vw);
+        position: relative;
+        margin-bottom: 30pxp;
+    }
+
+    
+    
+
+    a {
+        display: none;
+    }
+
+    .button-header {
+        margin-top: 15px;
+        margin-left: 500px;
+    }
+
+
+    
+    
+}
