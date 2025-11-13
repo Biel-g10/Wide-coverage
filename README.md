@@ -10,4 +10,4 @@
 
 <img src="https://github.com/Biel-g10/Wide-coverage/blob/main/assets/screenshot-1763046193821.png?raw=true" width="900px"/> 
 
-<img >
+<img src="https://github.com/Biel-g10/Wide-coverage/blob/main/assets/screenshot-1763046226862.png?raw=true" height="700px">
