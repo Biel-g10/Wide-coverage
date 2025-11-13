@@ -121,11 +121,8 @@ section {
         display: block;
         width: calc(70vw);
         position: relative;
-        margin-bottom: 30pxp;
+        margin-bottom: 30px;
     }
-
-    
-    
 
     a {
         display: none;
@@ -135,8 +132,4 @@ section {
         margin-top: 15px;
         margin-left: 500px;
     }
-
-
-    
-    
 }
